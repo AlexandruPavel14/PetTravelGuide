@@ -16,10 +16,10 @@ It represents the functional application of the final exam for the Bachelor's de
 ## Demo application
 
 ### iOS
-[Link to iOS demo](https://github.com/AlexandruPavel14/Licenta-BackendPetTravelGuide/assets/89200038/22c3696c-4ec3-48fe-932a-bd15cac9d815)
+[Link to iOS demo](https://github.com/user-attachments/assets/c4ae5a7e-7976-4146-ac8e-fad922ec3a56)
 
 ### Android
-[Link to Android demo](https://github.com/AlexandruPavel14/Licenta-BackendPetTravelGuide/assets/89200038/33a3bcf4-654f-45a0-8458-831a8d26bf70)
+[Link to Android demo](https://github.com/user-attachments/assets/7a2cc0d9-f3df-4487-bc8d-adfabc48d1a9)
 
 ### Web
-[Link to Web demo](https://github.com/AlexandruPavel14/Licenta-BackendPetTravelGuide/assets/89200038/b9a5ae52-441b-4a9d-b8d4-c675db46e6ae)
+[Link to Web demo](https://github.com/user-attachments/assets/ad2c25d6-313a-4887-bfcf-683037fa0bfc)
